@@ -1,4 +1,4 @@
-@import url(http://fonts.cdnfonts.com/css/gilroy-bold);
+
 
 * {
     padding: 0;
@@ -613,6 +613,8 @@ select {
 .plus-minus {
     background: none;
     border: none;
+    color: #141414;
+    
 }
 
 .revolution {
